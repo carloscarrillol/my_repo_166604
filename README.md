@@ -7,18 +7,13 @@ The repository is organized as follows:
 
 
 your-repo/
+
 ├── README.md (this file)
-
 ├── .gitignore (ignores secret and unnecessary files)
-
 ├── requirements.txt (pinned dependencies for reproducibility)
-
 ├── code/
-
 │ └── scrape_comments.py (main scraping script)
-
 └── data/
-
   └── dataset.csv (final dataset with scraped comments)
 
 Setup Instructions
