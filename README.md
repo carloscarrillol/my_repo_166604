@@ -18,13 +18,21 @@ your-repo/
 Setup Instructions
 
 Clone the repository by running:
+
 git clone https://github.com/your-username/your-repo.git
+
 cd your-repo
+
 Create a .env file in the root directory and add your YouTube Data API key:
+
 API_KEY=your_youtube_data_api_key_here
+
 Install the required Python libraries using pip:
+
 pip install -r requirements.txt
+
 How to Run the Scraper
+
 
 To run the script and scrape comments, execute:
 python code/scrape_comments.py
